@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/adeshshah/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/adeshshah/Documents/Code/giftr/platforms/android/build/intermediates/pre-dexed/debug/support-annotations-25.1.1_c9ad42eba205872ba4cb77c6d616a4f8f3b4b022.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adeshshah/Documents/Code/giftr/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/adeshshah/Documents/Code/giftr/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.1_4c2e0fe057e35ac6c414d9cd6c02bf4b323a43dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adeshshah/Documents/Code/giftr/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/adeshshah/Documents/Code/giftr/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.1_bfdf8a4510c8fab68c1e9d81f087d21c2fa4e30e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adeshshah/Documents/Code/giftr/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/adeshshah/Documents/Code/giftr/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.1_cb179e10f78e30a497986be77fb560a15538d58e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adeshshah/Documents/Code/giftr/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/adeshshah/Documents/Code/giftr/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.1_b4ff7f765c2f5dcaeccaab47009d4a286c183a0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adeshshah/Documents/Code/giftr/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/adeshshah/Documents/Code/giftr/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.1_3cb6fe835278f78b8a2b51460ab16629d95eaa72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adeshshah/Documents/Code/giftr/platforms/android/build/intermediates/exploded-aar/android/CordovaLib/unspecified/debug/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="afe8eb4906b94df000e2b3714c864ec42d4e4ea6">
+        <dex dex="/Users/adeshshah/Documents/Code/giftr/platforms/android/build/intermediates/pre-dexed/debug/CordovaLib-unspecified-debug_d779f999675aa1587f7923344b8b95f38f5a7fc0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adeshshah/Documents/Code/giftr/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/adeshshah/Documents/Code/giftr/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.1_6379bf8d56311dee4f88ac60aca8905c4d46e1a2.jar" />
+    </item>
+
+</items>

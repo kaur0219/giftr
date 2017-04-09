@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Gifts</title>
+</head>
+<link rel="stylesheet" type="text/css" href="css/ratchet.css" />
+<link rel="stylesheet" type="text/css" href="css/index.css" />
+
+<body>
+    <header class="bar bar-nav">
+        <a class="btn btn-link btn-nav pull-left" href="index.html">
+            <span class="icon icon-left-nav"></span> Back
+        </a>
+        <a href="#giftModal" class="btn btn-link btn-nav pull-right">
+                Add Idea
+                <span class="icon icon-plus"></span>
+            </a>
+        <h1 id="giftTitle" class="title">GIFTR</h1>
+    </header>
+
+    <div id="gifts" class="content">
+
+        <ul class="table-view" id="gift-list">
+
+        </ul>
+    </div>
+
+    <div id="giftModal" class="modal">
+        <header class="bar bar-nav">
+            <a id="xGiftButton" class="icon icon-close pull-right" href="#giftModal"></a>
+            <h1 class="title">Add Idea</h1>
+        </header>
+
+        <div class="content">
+            <p id="addName" class="content-padded">
+
+            </p>
+            <div class="content-padded">
+                <form class="input-group">
+                    <div class="input-row">
+                        <label>Gift idea</label>
+                        <input id="giftField" type="text" placeholder="idea">
+                    </div>
+                    <div class="input-row">
+                        <label>Store</label>
+                        <input id="storeField" type="text" placeholder="where to find it">
+                    </div>
+                    <div class="input-row">
+                        <label>URL</label>
+                        <input id="urlField" type="url" placeholder="http://www.example.com/">
+                    </div>
+                    <div class="input-row">
+                        <label>Cost</label>
+                        <input id="costField" type="text" placeholder="$14.99">
+                    </div>
+                </form>
+                <p class="content-padded">
+                    <button id="cancelGiftButton" class="btn btn-block">
+                        <span class="icon icon-close"></span> Cancel
+                    </button>
+                    <button id="saveGiftButton" class="btn btn-primary btn-block">
+                        <span class="icon icon-check"></span> Save
+                    </button>
+                </p>
+            </div>
+        </div>
+    </div>
+    <script src="cordova.js" type="text/javascript"></script>
+    <script type="text/javascript" src="js/ratchet.min.js"></script>
+    <script src="js/moment.js" type="text/javascript"></script>
+    <script type="text/javascript" src="js/index.js"></script>
+</body>
+
+</html>
